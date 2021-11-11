@@ -1,32 +1,20 @@
 # 100daysofhacking
 
 Hi, twitter thinks I'm a bot and has stopped me from tweeting for a while now so I'm moving my challenge over here!
-____________________________________________
-1  | over the wire bandit 1-5
-___|________________________________________
-2  | bandit 6-7
-___|________________________________________
-3  | bandit 8-13
-___|________________________________________
-4  | bandit 14-15
-___|________________________________________
-5  | secret
-___|________________________________________
-6  | bandit 16-17
-___|________________________________________
-7  | bandit 18-21
-___|________________________________________
-8  | bandit 22-23
-___|________________________________________
-9  | bandit 24-25
-___|________________________________________
-10 | bandit 26-33 (finished)
-___|________________________________________
-11 | over the wire leviathan 1-7 (finished)
-___|________________________________________
-12 | over the wire krypton 1-3
-___|________________________________________
-13 | krypton 4-6
-___|________________________________________
-14 | krypton 7 (finished)
-___|________________________________________
+
+day # | task | description
+--- | --- | ---
+1 | over the wire bandit | 1-5
+2 | over the wire bandit | 6-7
+3 | over the wire bandit | 8-13
+4 | over the wire bandit | 14-15
+5 | secret | secret
+6 | over the wire bandit | 16-17
+7 | over the wire bandit | 18-21
+8 | over the wire bandit | 22-23
+9 | over the wire bandit | 24-25
+10 | over the wire bandit | 26-33
+11 | over the wire leviathan | 1-7
+12 | over the wire krypton | 1-3
+13 | over the wire krypton | 4-6
+14 | over the wire krypton | 7
