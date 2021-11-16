@@ -18,3 +18,13 @@ day # | task | description
 12 | over the wire krypton | 1-3
 13 | over the wire krypton | 4-6
 14 | over the wire krypton | 7
+
+### Day 15 + 16
+Hackathon over the weekend with friends, worked on understanding fault injection
+
+### Day 17
+Fell off the wagon for 3 days, no work done
+
+Day 17 starting 3 days after day 16:
+Starting a hardware design course to learn more about FPGAs and hardware
+
