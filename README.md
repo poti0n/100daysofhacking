@@ -28,3 +28,8 @@ Fell off the wagon for 3 days, no work done
 Day 17 starting 3 days after day 16:
 Starting a hardware design course to learn more about FPGAs and hardware
 
+### Day 18 + 19
+More hardware design course
+
+### Day 20
+Over the wire natas 0-5
