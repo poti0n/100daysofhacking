@@ -33,3 +33,6 @@ More hardware design course
 
 ### Day 20
 Over the wire natas 0-5
+
+### Day 21
+Over the wire natas 6-10: Learned about LFI vulnerabilities and touched PHP code for the first time
