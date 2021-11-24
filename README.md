@@ -42,3 +42,6 @@ Didn't spend as much time on this as I did the last couple days, but attempted n
 
 ### Day 23
 I finished natas 11!!!
+
+### Day 24
+Low energy today, but working on natas 12. From reading the code I know I have to try to exploit a RFI vulnerability and will attempt it tomorrow.
