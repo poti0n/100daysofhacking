@@ -48,3 +48,6 @@ Low energy today, but working on natas 12. From reading the code I know I have t
 
 ### Day 25
 Finished natas 12, started 13
+
+### Day 26
+Natas 13
