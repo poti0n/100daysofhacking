@@ -51,3 +51,6 @@ Finished natas 12, started 13
 
 ### Day 26
 Natas 13
+
+### Day 27
+Natas 14 and 15. I really enjoyed these ones and learning about SQL injection, especially the moment my script for 15 worked!
