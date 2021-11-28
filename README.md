@@ -54,3 +54,6 @@ Natas 13
 
 ### Day 27
 Natas 14 and 15. I really enjoyed these ones and learning about SQL injection, especially the moment my script for 15 worked!
+
+### Day 28
+Natas 16 and wrote the script for 17 but can't figure out what's wrong with it yet
