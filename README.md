@@ -60,3 +60,6 @@ Natas 16 and wrote the script for 17 but can't figure out what's wrong with it y
 
 ### Day 29
 Natas 17
+
+### Day 30
+Worked on natas 18
