@@ -63,3 +63,6 @@ Natas 17
 
 ### Day 30
 Worked on natas 18
+
+### Day 31
+Pretty sick, will update this day again tomorrow with progress
