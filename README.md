@@ -66,3 +66,6 @@ Worked on natas 18
 
 ### Day 31
 Pretty sick, will update this day again tomorrow with progress
+...
+Pivoted to advent of code, I'm trying to use it to learn C as I kinda skipped that and really need to just bite the bullet, holy crap I am having a BAD TIME with it so far.
+Completed AOC day 1, I hope to catch up on the weekend and also do advent of cyber
