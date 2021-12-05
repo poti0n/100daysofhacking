@@ -72,3 +72,6 @@ Completed AOC day 1, I hope to catch up on the weekend and also do advent of cyb
 
 ### Day 32
 Advent of code 2
+
+### Day 33
+Advent of code 3 part 1
