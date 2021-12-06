@@ -75,3 +75,6 @@ Advent of code 2
 
 ### Day 33
 Advent of code 3 part 1
+
+### Day 34 
+I think part 2 would best be solved with a linked list so I can "delete" elements and I could just copy implementations I've seen while trying to learn about them but I feel my time learning C would be better spent actually learning important things like wrapping my head around using pointers. So, this part will get done when it gets done
