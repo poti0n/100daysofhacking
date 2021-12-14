@@ -81,3 +81,6 @@ I think part 2 would best be solved with a linked list so I can "delete" element
 
 ### Day 35
 Learned about xsstrike
+
+### Day 36
+I'm back again, advent of cyber 1-4 done
