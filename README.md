@@ -90,3 +90,6 @@ Advent of cyber 5-6
 
 ### Day 38
 Advent of cyber 7
+
+### Day 39
+Advent of cyber 8-10
