@@ -93,3 +93,6 @@ Advent of cyber 7
 
 ### Day 39
 Advent of cyber 8-10
+
+### Day 40
+A couple flags done on hackerone's ctf
