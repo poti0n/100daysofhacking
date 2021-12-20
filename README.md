@@ -96,3 +96,6 @@ Advent of cyber 8-10
 
 ### Day 40
 A couple flags done on hackerone's ctf
+
+### Day 41 + 42
+Forgot to update yesterday but I continued and got 1 flag yesterday and another one today
