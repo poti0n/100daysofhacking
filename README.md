@@ -99,3 +99,6 @@ A couple flags done on hackerone's ctf
 
 ### Day 41 + 42
 Forgot to update yesterday but I continued and got 1 flag yesterday and another one today
+
+### Day 43
+Advent of cyber 11, took forever with technical issues on my end. Done yesterday, forgot to update again!!
