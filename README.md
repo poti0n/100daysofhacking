@@ -102,3 +102,6 @@ Forgot to update yesterday but I continued and got 1 flag yesterday and another 
 
 ### Day 43
 Advent of cyber 11, took forever with technical issues on my end. Done yesterday, forgot to update again!!
+
+### Day 44
+Advent of cyber 12-17
