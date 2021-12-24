@@ -108,3 +108,6 @@ Advent of cyber 12-17
 
 ### Day 45
 Advent of cyber 18-22 and 5 flags from hacker101 ctf "postbook"
+
+### Day 46
+Advent of cyber 23, the 2 remaining postbook flags, and 2 flags from hacker101 ctf "cody's blog"
