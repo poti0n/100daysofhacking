@@ -111,3 +111,6 @@ Advent of cyber 18-22 and 5 flags from hacker101 ctf "postbook"
 
 ### Day 46
 Advent of cyber 23, the 2 remaining postbook flags, and 2 flags from hacker101 ctf "cody's blog"
+
+### Day 47
+After some infuriating connection issues I was able to finish advent of cyber 24
