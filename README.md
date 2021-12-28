@@ -114,3 +114,6 @@ Advent of cyber 23, the 2 remaining postbook flags, and 2 flags from hacker101 c
 
 ### Day 47
 After some infuriating connection issues I was able to finish advent of cyber 24
+
+### Day 48
+I finished advent of cyber Christmas day but I think my browser is blocking the certificate download and can't be bothered to fix it right now, will add later. Today I got the last flag from cody's blog and the first flag from micro-cms v2
