@@ -123,3 +123,6 @@ The last 2 flags of micro-cms v2
 
 ### Day 50
 Well... what a halfway point. I got my covid booster Dec 29 and have been so under the weather. I attempted to do some hacker101 ctf the other day and came out unsuccessful due to the brain fog. I am counting that as day 50 and will update tonight for day 51. Still not feeling 100% but let's see what happens.
+
+### Day 51
+I have returned, I have sterted The XSS Rat's ethical hacking guide a-z course. As of last night I have gotten to *00x02 Networking Fundamentals*
