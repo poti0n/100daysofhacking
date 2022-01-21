@@ -126,3 +126,6 @@ Well... what a halfway point. I got my covid booster Dec 29 and have been so und
 
 ### Day 51
 I have returned, I have sterted The XSS Rat's ethical hacking guide a-z course. As of last night I have gotten to *00x02 Networking Fundamentals*
+
+### Day 52
+Finished Networking Fundamentals
