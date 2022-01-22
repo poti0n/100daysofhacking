@@ -129,3 +129,6 @@ I have returned, I have sterted The XSS Rat's ethical hacking guide a-z course. 
 
 ### Day 52
 Finished Networking Fundamentals
+
+### Day 53
+Started *00x03 Tools*, made it past the quiz and there is still a little more to do in this section
