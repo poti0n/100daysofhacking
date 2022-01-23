@@ -132,3 +132,6 @@ Finished Networking Fundamentals
 
 ### Day 53
 Started *00x03 Tools*, made it past the quiz and there is still a little more to do in this section
+
+### Day 54
+Finished Tools
