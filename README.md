@@ -135,3 +135,6 @@ Started *00x03 Tools*, made it past the quiz and there is still a little more to
 
 ### Day 54
 Finished Tools
+
+### Day 55
+*00x04 Passive Information Gathering*
