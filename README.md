@@ -138,3 +138,6 @@ Finished Tools
 
 ### Day 55
 *00x04 Passive Information Gathering*
+
+### Day 56
+Started *00x05 Getting A Foothold*
