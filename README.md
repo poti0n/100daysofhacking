@@ -141,3 +141,6 @@ Finished Tools
 
 ### Day 56
 Started *00x05 Getting A Foothold*
+
+### Day 57
+Continued working through *00x05*, I wanted to finish it today but had an emergency requiring a trip to the ER. I got a few videos done though.
