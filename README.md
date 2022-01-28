@@ -144,3 +144,6 @@ Started *00x05 Getting A Foothold*
 
 ### Day 57
 Continued working through *00x05*, I wanted to finish it today but had an emergency requiring a trip to the ER. I got a few videos done though.
+
+### Day 58
+Missed a day and forgot to update yesterday, oops. I finished *00x05 Getting A Foothold* yesterday.
