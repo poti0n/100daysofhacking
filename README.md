@@ -147,3 +147,6 @@ Continued working through *00x05*, I wanted to finish it today but had an emerge
 
 ### Day 58
 Missed a day and forgot to update yesterday, oops. I finished *00x05 Getting A Foothold* yesterday.
+
+### Day 59
+Yesterday I played around with some google dorks on a bounty target
