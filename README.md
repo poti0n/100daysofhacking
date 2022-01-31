@@ -150,3 +150,6 @@ Missed a day and forgot to update yesterday, oops. I finished *00x05 Getting A F
 
 ### Day 59
 Yesterday I played around with some google dorks on a bounty target
+
+### Day 60
+I forgot to update before I went to sleep a couple days ago, then missed a day. 2 days ago I set up the WSL2 on my terrible laptop to work with an X server on my linux box because I wanted to use it to run GUI applications, not only harness its power with SSH like I already was. Super cool. For the last 40 days I pledge to not miss a day.
