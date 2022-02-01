@@ -153,3 +153,6 @@ Yesterday I played around with some google dorks on a bounty target
 
 ### Day 60
 I forgot to update before I went to sleep a couple days ago, then missed a day. 2 days ago I set up the WSL2 on my terrible laptop to work with an X server on my linux box because I wanted to use it to run GUI applications, not only harness its power with SSH like I already was. Super cool. For the last 40 days I pledge to not miss a day.
+
+### Day 61
+Started and nearly finished *00x06 Privilege Escalation* just have the assignment left
