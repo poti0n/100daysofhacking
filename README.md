@@ -156,3 +156,6 @@ I forgot to update before I went to sleep a couple days ago, then missed a day. 
 
 ### Day 61
 Started and nearly finished *00x06 Privilege Escalation* just have the assignment left
+
+### Day 62
+Finished *00x06*
