@@ -159,3 +159,6 @@ Started and nearly finished *00x06 Privilege Escalation* just have the assignmen
 
 ### Day 62
 Finished *00x06*
+
+### Day 63
+Finished *00x07 Buffer Overflow*
