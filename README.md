@@ -162,3 +162,6 @@ Finished *00x06*
 
 ### Day 63
 Finished *00x07 Buffer Overflow*
+
+### Day 64
+Started the Burp Suite section of the course
