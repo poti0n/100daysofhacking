@@ -168,3 +168,6 @@ Started the Burp Suite section of the course
 
 ### Day 65
 Haven't been enjoying the shallow tutorial-style course lately so I am starting to learn architecture with the book *Computer Systems: A Programmer's Perspective*. I got to section 1.4.2 today
+
+### Day 66
+Crappy day but I got to section 1.7
