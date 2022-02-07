@@ -171,3 +171,6 @@ Haven't been enjoying the shallow tutorial-style course lately so I am starting 
 
 ### Day 66
 Crappy day but I got to section 1.7
+
+### Day 67
+Read to 1.8
