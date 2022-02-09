@@ -177,3 +177,6 @@ Read to 1.8
 
 ### Day 68
 1.8 and part of 1.9 done. Sidenote I'm really enjoying this
+
+### Day 69
+A little trouble focussing today, read to 2.1
