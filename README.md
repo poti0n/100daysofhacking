@@ -180,3 +180,6 @@ Read to 1.8
 
 ### Day 69
 A little trouble focussing today, read to 2.1
+
+### Day 70
+Read part of 2.1 and also collaborated on some pico ctf flags
