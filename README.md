@@ -186,3 +186,6 @@ Read part of 2.1 and also collaborated on some pico ctf flags
 
 ### Day 71
 More 2.1
+
+### Day 72
+More of 2.1, I think I need to learn more C before I continue with this book. I will start that tomorrow
