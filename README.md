@@ -192,3 +192,6 @@ More of 2.1, I think I need to learn more C before I continue with this book. I 
 
 ### Day 73
 Started the K&R C book
+
+### Day 74
+More C book
