@@ -195,3 +195,6 @@ Started the K&R C book
 
 ### Day 74
 More C book
+
+### Day 75
+Embedded systems course - 2 chapters
