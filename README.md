@@ -198,3 +198,6 @@ More C book
 
 ### Day 75
 Embedded systems course - 2 chapters
+
+### Day 76
+More C book!
