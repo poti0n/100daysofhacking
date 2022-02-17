@@ -201,3 +201,6 @@ Embedded systems course - 2 chapters
 
 ### Day 76
 More C book!
+
+### Day 77
+Forgot to update last night. Just more C book. I think my code reading is improving now
