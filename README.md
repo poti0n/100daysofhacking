@@ -204,3 +204,6 @@ More C book!
 
 ### Day 77
 Forgot to update last night. Just more C book. I think my code reading is improving now
+
+### Day 78
+More C book, would like to do some of the practice problems tomorrow
