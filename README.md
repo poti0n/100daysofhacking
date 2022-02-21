@@ -210,3 +210,6 @@ More C book, would like to do some of the practice problems tomorrow
 
 ### Day 79 + 80
 Whoops, forgot to update yesterday. Yesterday I did one of the practice problems and more reading the C book. I was super proud even though it was a simple script because it was the first time I've fully understood how every piece of it works down to the hardware. Today I just did some reading, it's Saturday!
+
+### Day 81
+More C learning
