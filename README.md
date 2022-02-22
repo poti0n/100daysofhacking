@@ -213,3 +213,6 @@ Whoops, forgot to update yesterday. Yesterday I did one of the practice problems
 
 ### Day 81
 More C learning
+
+### Day 82
+Started reading the hardware hacking handbook
