@@ -216,3 +216,6 @@ More C learning
 
 ### Day 82
 Started reading the hardware hacking handbook
+
+### Day 83
+Attempted a bug bounty program
