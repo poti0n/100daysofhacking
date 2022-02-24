@@ -219,3 +219,6 @@ Started reading the hardware hacking handbook
 
 ### Day 83
 Attempted a bug bounty program
+
+### Day 84
+Attempted another bug bounty
