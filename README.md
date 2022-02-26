@@ -222,3 +222,6 @@ Attempted a bug bounty program
 
 ### Day 84
 Attempted another bug bounty
+
+### Day 85 + 86
+Forgot to update yesterday. Yesterday I continued trying out bug bounties and today I read more of the C book
