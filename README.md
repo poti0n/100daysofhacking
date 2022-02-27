@@ -225,3 +225,6 @@ Attempted another bug bounty
 
 ### Day 85 + 86
 Forgot to update yesterday. Yesterday I continued trying out bug bounties and today I read more of the C book
+
+### Day 87
+C book
