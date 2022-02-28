@@ -228,3 +228,6 @@ Forgot to update yesterday. Yesterday I continued trying out bug bounties and to
 
 ### Day 87
 C book
+
+### Day 88
+Less work today but hey it's Sunday. A little bit of C book reading today
