@@ -231,3 +231,6 @@ C book
 
 ### Day 88
 Less work today but hey it's Sunday. A little bit of C book reading today
+
+### Day 89 + 90 + 91
+I haven't been feeling good these past few days and would fall asleep before updating, but I have still been working at the C book.
