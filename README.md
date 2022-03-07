@@ -237,3 +237,6 @@ I haven't been feeling good these past few days and would fall asleep before upd
 
 ### Day 92
 Was searching for a good bounty target yesterday
+
+### Day 93 + 94 + 95
+Worked on setting up a computer vision security camera
