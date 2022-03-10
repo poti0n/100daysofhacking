@@ -240,3 +240,6 @@ Was searching for a good bounty target yesterday
 
 ### Day 93 + 94 + 95
 Worked on setting up a computer vision security camera
+
+### Day 96 + 97 + 98
+A couple days of reading C book and 1 day of dealing with complications of my current unusual setup
