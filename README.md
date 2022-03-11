@@ -243,3 +243,6 @@ Worked on setting up a computer vision security camera
 
 ### Day 96 + 97 + 98
 A couple days of reading C book and 1 day of dealing with complications of my current unusual setup
+
+### Day 99
+Got a lot done for my security camera project. Would be pretty cool if I could finish it tomorrow
