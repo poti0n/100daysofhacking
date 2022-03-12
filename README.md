@@ -246,3 +246,6 @@ A couple days of reading C book and 1 day of dealing with complications of my cu
 
 ### Day 99
 Got a lot done for my security camera project. Would be pretty cool if I could finish it tomorrow
+
+### Day 100
+Didn't quite finish the camera project but it's set to finish tomorrow. I'm gonna extend this another 100 days
