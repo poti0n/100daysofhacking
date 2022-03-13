@@ -249,3 +249,6 @@ Got a lot done for my security camera project. Would be pretty cool if I could f
 
 ### Day 100
 Didn't quite finish the camera project but it's set to finish tomorrow. I'm gonna extend this another 100 days
+
+### Day 101
+Last night I was so exhausted from packing for a trip I fell asleep before I could update. The camera project is functional, I think. I will test it this evening and include results in my day 102 update tonight!
