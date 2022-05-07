@@ -252,3 +252,6 @@ Didn't quite finish the camera project but it's set to finish tomorrow. I'm gonn
 
 ### Day 101
 Last night I was so exhausted from packing for a trip I fell asleep before I could update. The camera project is functional, I think. I will test it this evening and include results in my day 102 update tonight!
+
+### Day 102
+Well, the trip didn't go as expected re: updating, but I feel like I have learned more during that time than I have in a while. During my hiatus I have been working through Ret2 Systems Wargames.
