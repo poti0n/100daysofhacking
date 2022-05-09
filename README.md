@@ -255,3 +255,6 @@ Last night I was so exhausted from packing for a trip I fell asleep before I cou
 
 ### Day 102
 Well, the trip didn't go as expected re: updating, but I feel like I have learned more during that time than I have in a while. During my hiatus I have been working through Ret2 Systems Wargames.
+
+### Day 103
+Today I worked on Ret2 some more
